@@ -1,0 +1,11 @@
+curl -X POST https://zenopay.com/api/payments/checkout/ \
+  -H "x-api-key: YOUR_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "amount": 500,
+    "currency": "USD",
+    "redirect_url": "https://yourwebsite.com/thank-you",
+    "buyer_email": "user@example.com",
+    "buyer_name": "John Doe",
+    "buyer_phone": "0680900380"
+}'
