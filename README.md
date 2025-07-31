@@ -89,7 +89,7 @@ ZenoPay supports **150+ currencies**, including but not limited to:
 * 🇯🇵 JPY – Japanese Yen
   ...and many more.
 
-> ✅ For the full list of supported currencies, [contact support](mailto:support@zenopay.com) or access the `/currencies` endpoint (coming soon).
+> ✅ For the full list of supported currencies, [contact support](mailto:support@zenopay.net) or access the `/currencies` endpoint (coming soon).
 
 ---
 
